@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.19>
 <Properties>
-  <View=0,20,1551,2535,1,0,1620>
+  <View=0,20,1551,2609,1,0,1680>
   <Grid=10,10,1>
   <DataSet=simulation_tard.dat>
   <DataDisplay=simulation_tard.dpl>
@@ -104,6 +104,10 @@
 	  <Mkr 2584.71 426 -189 3 0 0>
 	  <Mkr 54.6686 5 -301 3 0 0>
 	  <Mkr 99082.3 650 -294 3 0 0>
+  </Rect>
+  <Rect 120 2494 840 384 3 #c0c0c0 1 00 1 0 5e-05 0.001 1 -0.6 0.2 0.6 1 -1 0.2 1 315 0 225 "" "" "">
+	<"Ube.Vt" #0000ff 0 3 0 0 0>
+	<"Uki.Vt" #ff0000 0 3 0 0 1>
   </Rect>
 </Diagrams>
 <Paintings>
